@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Splashscreen_33</string>
+    <string name="smk_table">SMK TELKOM PURWOKERTO</string>
+    <string name="name_tabel">Nama : Wanda Tri Jhuliana</string>
+    <string name="kelas_tabel">Kelas : XI RPL 3</string>
+    <string name="absen_tabel">Absen : 33</string>
+    <string name="tunggu_label">Tunggu Sebentar</string>
+    <string name="telkomschool">TODO</string>
+    <string name="years_tabel">2019</string>
+</resources>
